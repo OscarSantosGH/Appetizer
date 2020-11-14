@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8382B926255F57CB007CA432 /* AppetizerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8382B925255F57CB007CA432 /* AppetizerApp.swift */; };
-		8382B928255F57CB007CA432 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8382B927255F57CB007CA432 /* ContentView.swift */; };
+		8382B928255F57CB007CA432 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8382B927255F57CB007CA432 /* AppetizerTabView.swift */; };
 		8382B92A255F57D0007CA432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8382B929255F57D0007CA432 /* Assets.xcassets */; };
 		8382B92D255F57D0007CA432 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8382B92C255F57D0007CA432 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		8382B922255F57CB007CA432 /* Appetizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appetizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8382B925255F57CB007CA432 /* AppetizerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerApp.swift; sourceTree = "<group>"; };
-		8382B927255F57CB007CA432 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8382B927255F57CB007CA432 /* AppetizerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerTabView.swift; sourceTree = "<group>"; };
 		8382B929255F57D0007CA432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8382B92C255F57D0007CA432 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8382B92E255F57D0007CA432 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				8382B925255F57CB007CA432 /* AppetizerApp.swift */,
-				8382B927255F57CB007CA432 /* ContentView.swift */,
+				8382B927255F57CB007CA432 /* AppetizerTabView.swift */,
 				8382B929255F57D0007CA432 /* Assets.xcassets */,
 				8382B92E255F57D0007CA432 /* Info.plist */,
 				8382B92B255F57D0007CA432 /* Preview Content */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8382B928255F57CB007CA432 /* ContentView.swift in Sources */,
+				8382B928255F57CB007CA432 /* AppetizerTabView.swift in Sources */,
 				8382B926255F57CB007CA432 /* AppetizerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
