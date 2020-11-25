@@ -14,6 +14,7 @@
 		8382B928255F57CB007CA432 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8382B927255F57CB007CA432 /* AppetizerTabView.swift */; };
 		8382B92A255F57D0007CA432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8382B929255F57D0007CA432 /* Assets.xcassets */; };
 		8382B92D255F57D0007CA432 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8382B92C255F57D0007CA432 /* Preview Assets.xcassets */; };
+		839DE016256E8133007DAEC0 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839DE015256E8133007DAEC0 /* Appetizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8382B929255F57D0007CA432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8382B92C255F57D0007CA432 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8382B92E255F57D0007CA432 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		839DE015256E8133007DAEC0 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				833D8442255F741F0012D52D /* AppetizerListView.swift */,
 				833D8445255F74490012D52D /* AccountView.swift */,
 				833D8448255F74620012D52D /* OrderView.swift */,
+				839DE015256E8133007DAEC0 /* Appetizer.swift */,
 			);
 			path = Appetizer;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				839DE016256E8133007DAEC0 /* Appetizer.swift in Sources */,
 				833D8446255F74490012D52D /* AccountView.swift in Sources */,
 				8382B928255F57CB007CA432 /* AppetizerTabView.swift in Sources */,
 				8382B926255F57CB007CA432 /* AppetizerApp.swift in Sources */,
