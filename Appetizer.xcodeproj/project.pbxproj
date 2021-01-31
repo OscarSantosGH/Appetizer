@@ -19,6 +19,7 @@
 		839DE016256E8133007DAEC0 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839DE015256E8133007DAEC0 /* Appetizer.swift */; };
 		839DE019256FFAF7007DAEC0 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839DE018256FFAF7007DAEC0 /* AppetizerListCell.swift */; };
 		83C7A45025C62150001FCB82 /* AppetizersListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83C7A44F25C62150001FCB82 /* AppetizersListViewModel.swift */; };
+		83C7A45425C70CF2001FCB82 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83C7A45325C70CF1001FCB82 /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		839DE015256E8133007DAEC0 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 		839DE018256FFAF7007DAEC0 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 		83C7A44F25C62150001FCB82 /* AppetizersListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizersListViewModel.swift; sourceTree = "<group>"; };
+		83C7A45325C70CF1001FCB82 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				839DE018256FFAF7007DAEC0 /* AppetizerListCell.swift */,
 				83141E8C25A87A980057B78C /* NetworkManager.swift */,
 				83141E8F25A87ACD0057B78C /* APError.swift */,
+				83C7A45325C70CF1001FCB82 /* Alert.swift */,
 			);
 			path = Appetizer;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				8382B928255F57CB007CA432 /* AppetizerTabView.swift in Sources */,
 				83141E8D25A87A980057B78C /* NetworkManager.swift in Sources */,
 				8382B926255F57CB007CA432 /* AppetizerApp.swift in Sources */,
+				83C7A45425C70CF2001FCB82 /* Alert.swift in Sources */,
 				833D8443255F741F0012D52D /* AppetizerListView.swift in Sources */,
 				833D8449255F74620012D52D /* OrderView.swift in Sources */,
 			);
